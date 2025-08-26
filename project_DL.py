@@ -4,7 +4,7 @@ import cv2
 import pytesseract
 
 # Configure Gemini AI
-genai.configure(api_key="AIzaSyCPqe69b1KpksGmv3Pa9EWmEDlqXMK72Ds")
+genai.configure(api_key="********API KEY************")
 
 # Global variables to store extracted text, user profile, and conversation history
 stored_extracted_text = None
